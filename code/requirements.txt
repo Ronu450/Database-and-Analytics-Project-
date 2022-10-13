@@ -1,0 +1,6 @@
+tk
+SQLAlchemy
+boto3
+plotly
+requests
+PyMySQL

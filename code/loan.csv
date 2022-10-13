@@ -1,0 +1,251 @@
+customer_id,emp_id,interest_rate,loan_amount,loan_date,loan_id,marital_status,tenure_yrs,vehicle_id,Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,cust_id
+cust_25,emp_17,8.66,6362,2020-11-08,ln_1,Widow,14,v_189,LP001002,Male,No,0,Graduate,No,5849,0.0,,360.0,1.0,Urban,Y,cust_1
+cust_71,emp_13,6.45,4131,2021-04-10,ln_2,Widow,29,v_476,LP001003,Male,Yes,1,Graduate,No,4583,1508.0,128.0,360.0,1.0,Rural,N,cust_2
+cust_20,emp_34,8.34,4922,2021-01-17,ln_3,Widow,21,v_392,LP001005,Male,Yes,0,Graduate,Yes,3000,0.0,66.0,360.0,1.0,Urban,Y,cust_3
+cust_71,emp_11,10.45,2777,2021-05-10,ln_4,Widow,19,v_242,LP001006,Male,Yes,0,Not Graduate,No,2583,2358.0,120.0,360.0,1.0,Urban,Y,cust_4
+cust_57,emp_33,7.56,3624,2021-06-24,ln_5,Widow,18,v_30,LP001008,Male,No,0,Graduate,No,6000,0.0,141.0,360.0,1.0,Urban,Y,cust_5
+cust_95,emp_33,10.14,5253,2021-05-25,ln_6,Widow,18,v_206,LP001011,Male,Yes,2,Graduate,Yes,5417,4196.0,267.0,360.0,1.0,Urban,Y,cust_6
+cust_29,emp_36,10.76,5816,2021-07-21,ln_7,Married,12,v_478,LP001013,Male,Yes,0,Not Graduate,No,2333,1516.0,95.0,360.0,1.0,Urban,Y,cust_7
+cust_38,emp_6,9.1,6364,2021-05-31,ln_8,Married,18,v_190,LP001014,Male,Yes,3+,Graduate,No,3036,2504.0,158.0,360.0,0.0,Semiurban,N,cust_8
+cust_11,emp_20,10.58,5664,2020-03-18,ln_9,Widow,32,v_186,LP001018,Male,Yes,2,Graduate,No,4006,1526.0,168.0,360.0,1.0,Urban,Y,cust_9
+cust_48,emp_42,10.15,4664,2020-12-16,ln_10,Single,18,v_271,LP001020,Male,Yes,1,Graduate,No,12841,10968.0,349.0,360.0,1.0,Semiurban,N,cust_10
+cust_15,emp_29,9.04,3919,2022-01-30,ln_11,Widow,15,v_363,LP001024,Male,Yes,2,Graduate,No,3200,700.0,70.0,360.0,1.0,Urban,Y,cust_11
+cust_5,emp_15,9.2,3545,2021-03-31,ln_12,Widow,27,v_189,LP001027,Male,Yes,2,Graduate,,2500,1840.0,109.0,360.0,1.0,Urban,Y,cust_12
+cust_12,emp_24,16.02,5266,2020-08-10,ln_13,Married,33,v_142,LP001028,Male,Yes,2,Graduate,No,3073,8106.0,200.0,360.0,1.0,Urban,Y,cust_13
+cust_10,emp_33,10.48,5899,2020-04-23,ln_14,Widow,20,v_239,LP001029,Male,No,0,Graduate,No,1853,2840.0,114.0,360.0,1.0,Rural,N,cust_14
+cust_19,emp_37,2.75,3909,2020-06-17,ln_15,Widow,33,v_346,LP001030,Male,Yes,2,Graduate,No,1299,1086.0,17.0,120.0,1.0,Urban,Y,cust_15
+cust_55,emp_11,14.76,4574,2021-07-19,ln_16,Married,37,v_322,LP001032,Male,No,0,Graduate,No,4950,0.0,125.0,360.0,1.0,Urban,Y,cust_16
+cust_77,emp_16,9.25,4387,2020-03-25,ln_17,Widow,30,v_464,LP001034,Male,No,1,Not Graduate,No,3596,0.0,100.0,240.0,,Urban,Y,cust_17
+cust_61,emp_14,10.7,3337,2021-12-13,ln_18,Married,27,v_232,LP001036,Female,No,0,Graduate,No,3510,0.0,76.0,360.0,0.0,Urban,N,cust_18
+cust_84,emp_13,8.83,4764,2020-07-17,ln_19,Married,17,v_191,LP001038,Male,Yes,0,Not Graduate,No,4887,0.0,133.0,360.0,1.0,Rural,N,cust_19
+cust_70,emp_22,13.52,5475,2020-09-13,ln_20,Widow,30,v_206,LP001041,Male,Yes,0,Graduate,,2600,3500.0,115.0,,1.0,Urban,Y,cust_20
+cust_9,emp_25,11.7,5284,2022-02-28,ln_21,Widow,5,v_481,LP001043,Male,Yes,0,Not Graduate,No,7660,0.0,104.0,360.0,0.0,Urban,N,cust_21
+cust_45,emp_15,8.28,7538,2021-10-20,ln_22,Widow,4,v_24,LP001046,Male,Yes,1,Graduate,No,5955,5625.0,315.0,360.0,1.0,Urban,Y,cust_22
+cust_73,emp_43,6.94,5834,2021-03-09,ln_23,Married,15,v_365,LP001047,Male,Yes,0,Not Graduate,No,2600,1911.0,116.0,360.0,0.0,Semiurban,N,cust_23
+cust_55,emp_5,10.58,3976,2021-03-08,ln_24,Widow,19,v_447,LP001050,,Yes,2,Not Graduate,No,3365,1917.0,112.0,360.0,0.0,Rural,N,cust_24
+cust_55,emp_46,6.23,3922,2021-01-26,ln_25,Widow,13,v_265,LP001052,Male,Yes,1,Graduate,,3717,2925.0,151.0,360.0,,Semiurban,N,cust_25
+cust_29,emp_49,10.12,5227,2020-12-16,ln_26,Married,23,v_240,LP001066,Male,Yes,0,Graduate,Yes,9560,0.0,191.0,360.0,1.0,Semiurban,Y,cust_26
+cust_47,emp_12,8.12,5455,2021-08-13,ln_27,Married,11,v_360,LP001068,Male,Yes,0,Graduate,No,2799,2253.0,122.0,360.0,1.0,Semiurban,Y,cust_27
+cust_65,emp_15,9.53,5225,2021-02-20,ln_28,Single,18,v_342,LP001073,Male,Yes,2,Not Graduate,No,4226,1040.0,110.0,360.0,1.0,Urban,Y,cust_28
+cust_36,emp_48,3.29,6183,2022-02-26,ln_29,Widow,13,v_484,LP001086,Male,No,0,Not Graduate,No,1442,0.0,35.0,360.0,1.0,Urban,N,cust_29
+cust_66,emp_48,8.34,3594,2020-04-23,ln_30,Single,22,v_341,LP001087,Female,No,2,Graduate,,3750,2083.0,120.0,360.0,1.0,Semiurban,Y,cust_30
+cust_89,emp_47,9.11,4637,2021-07-28,ln_31,Widow,-1,v_115,LP001091,Male,Yes,1,Graduate,,4166,3369.0,201.0,360.0,,Urban,N,cust_31
+cust_78,emp_18,9.86,5508,2021-11-29,ln_32,Married,35,v_269,LP001095,Male,No,0,Graduate,No,3167,0.0,74.0,360.0,1.0,Urban,N,cust_32
+cust_22,emp_50,9.24,5875,2021-12-21,ln_33,Single,28,v_332,LP001097,Male,No,1,Graduate,Yes,4692,0.0,106.0,360.0,1.0,Rural,N,cust_33
+cust_40,emp_42,13.87,3494,2021-05-04,ln_34,Married,29,v_182,LP001098,Male,Yes,0,Graduate,No,3500,1667.0,114.0,360.0,1.0,Semiurban,Y,cust_34
+cust_74,emp_46,10.94,4195,2022-01-05,ln_35,Married,19,v_409,LP001100,Male,No,3+,Graduate,No,12500,3000.0,320.0,360.0,1.0,Rural,N,cust_35
+cust_14,emp_29,12.13,5164,2020-06-03,ln_36,Married,13,v_158,LP001106,Male,Yes,0,Graduate,No,2275,2067.0,,360.0,1.0,Urban,Y,cust_36
+cust_64,emp_29,10.21,5349,2021-10-08,ln_37,Widow,5,v_461,LP001109,Male,Yes,0,Graduate,No,1828,1330.0,100.0,,0.0,Urban,N,cust_37
+cust_98,emp_44,10.23,6623,2020-05-21,ln_38,Widow,15,v_323,LP001112,Female,Yes,0,Graduate,No,3667,1459.0,144.0,360.0,1.0,Semiurban,Y,cust_38
+cust_31,emp_8,8.27,4486,2020-03-30,ln_39,Widow,30,v_188,LP001114,Male,No,0,Graduate,No,4166,7210.0,184.0,360.0,1.0,Urban,Y,cust_39
+cust_68,emp_37,8.33,5063,2020-08-11,ln_40,Widow,15,v_169,LP001116,Male,No,0,Not Graduate,No,3748,1668.0,110.0,360.0,1.0,Semiurban,Y,cust_40
+cust_16,emp_5,8.14,5061,2021-09-12,ln_41,Widow,11,v_187,LP001119,Male,No,0,Graduate,No,3600,0.0,80.0,360.0,1.0,Urban,N,cust_41
+cust_81,emp_1,14.0,4351,2020-09-22,ln_42,Single,27,v_64,LP001120,Male,No,0,Graduate,No,1800,1213.0,47.0,360.0,1.0,Urban,Y,cust_42
+cust_74,emp_38,10.39,3951,2021-11-18,ln_43,Widow,29,v_128,LP001123,Male,Yes,0,Graduate,No,2400,0.0,75.0,360.0,,Urban,Y,cust_43
+cust_36,emp_14,7.04,4073,2021-08-17,ln_44,Widow,21,v_365,LP001131,Male,Yes,0,Graduate,No,3941,2336.0,134.0,360.0,1.0,Semiurban,Y,cust_44
+cust_10,emp_19,11.17,4543,2020-08-07,ln_45,Married,22,v_495,LP001136,Male,Yes,0,Not Graduate,Yes,4695,0.0,96.0,,1.0,Urban,Y,cust_45
+cust_99,emp_42,13.62,5570,2021-04-19,ln_46,Married,31,v_179,LP001137,Female,No,0,Graduate,No,3410,0.0,88.0,,1.0,Urban,Y,cust_46
+cust_28,emp_9,11.89,5206,2020-05-27,ln_47,Widow,33,v_369,LP001138,Male,Yes,1,Graduate,No,5649,0.0,44.0,360.0,1.0,Urban,Y,cust_47
+cust_72,emp_10,10.01,3849,2021-01-28,ln_48,Widow,17,v_157,LP001144,Male,Yes,0,Graduate,No,5821,0.0,144.0,360.0,1.0,Urban,Y,cust_48
+cust_62,emp_40,9.33,4993,2021-07-14,ln_49,Widow,16,v_27,LP001146,Female,Yes,0,Graduate,No,2645,3440.0,120.0,360.0,0.0,Urban,N,cust_49
+cust_13,emp_35,8.36,4648,2020-03-19,ln_50,Widow,10,v_493,LP001151,Female,No,0,Graduate,No,4000,2275.0,144.0,360.0,1.0,Semiurban,Y,cust_50
+cust_12,emp_7,5.92,3253,2021-11-26,ln_51,Widow,30,v_59,LP001155,Female,Yes,0,Not Graduate,No,1928,1644.0,100.0,360.0,1.0,Semiurban,Y,cust_51
+cust_99,emp_19,9.13,7098,2021-01-03,ln_52,Single,23,v_422,LP001157,Female,No,0,Graduate,No,3086,0.0,120.0,360.0,1.0,Semiurban,Y,cust_52
+cust_43,emp_23,9.65,5849,2020-05-20,ln_53,Married,5,v_280,LP001164,Female,No,0,Graduate,No,4230,0.0,112.0,360.0,1.0,Semiurban,N,cust_53
+cust_36,emp_28,7.38,4619,2021-01-09,ln_54,Widow,25,v_459,LP001179,Male,Yes,2,Graduate,No,4616,0.0,134.0,360.0,1.0,Urban,N,cust_54
+cust_26,emp_10,10.87,3564,2021-10-15,ln_55,Widow,21,v_237,LP001186,Female,Yes,1,Graduate,Yes,11500,0.0,286.0,360.0,0.0,Urban,N,cust_55
+cust_96,emp_12,9.53,5481,2021-06-03,ln_56,Married,22,v_302,LP001194,Male,Yes,2,Graduate,No,2708,1167.0,97.0,360.0,1.0,Semiurban,Y,cust_56
+cust_40,emp_33,8.38,4762,2020-05-02,ln_57,Widow,11,v_443,LP001195,Male,Yes,0,Graduate,No,2132,1591.0,96.0,360.0,1.0,Semiurban,Y,cust_57
+cust_54,emp_46,7.48,4794,2021-08-13,ln_58,Widow,29,v_289,LP001197,Male,Yes,0,Graduate,No,3366,2200.0,135.0,360.0,1.0,Rural,N,cust_58
+cust_26,emp_24,9.74,5352,2022-03-15,ln_59,Single,11,v_436,LP001198,Male,Yes,1,Graduate,No,8080,2250.0,180.0,360.0,1.0,Urban,Y,cust_59
+cust_37,emp_37,10.23,4294,2021-05-28,ln_60,Married,9,v_388,LP001199,Male,Yes,2,Not Graduate,No,3357,2859.0,144.0,360.0,1.0,Urban,Y,cust_60
+cust_92,emp_2,14.68,6080,2021-07-14,ln_61,Widow,32,v_214,LP001205,Male,Yes,0,Graduate,No,2500,3796.0,120.0,360.0,1.0,Urban,Y,cust_61
+cust_56,emp_5,11.52,6733,2021-04-20,ln_62,Married,31,v_383,LP001206,Male,Yes,3+,Graduate,No,3029,0.0,99.0,360.0,1.0,Urban,Y,cust_62
+cust_92,emp_6,9.37,5392,2021-01-22,ln_63,Widow,27,v_216,LP001207,Male,Yes,0,Not Graduate,Yes,2609,3449.0,165.0,180.0,0.0,Rural,N,cust_63
+cust_73,emp_9,15.85,6227,2021-08-06,ln_64,Single,27,v_82,LP001213,Male,Yes,1,Graduate,No,4945,0.0,,360.0,0.0,Rural,N,cust_64
+cust_84,emp_48,6.47,6581,2020-10-14,ln_65,Married,18,v_106,LP001222,Female,No,0,Graduate,No,4166,0.0,116.0,360.0,0.0,Semiurban,N,cust_65
+cust_57,emp_7,6.12,4624,2021-11-23,ln_66,Widow,14,v_437,LP001225,Male,Yes,0,Graduate,No,5726,4595.0,258.0,360.0,1.0,Semiurban,N,cust_66
+cust_87,emp_35,10.61,5092,2021-10-23,ln_67,Widow,24,v_149,LP001228,Male,No,0,Not Graduate,No,3200,2254.0,126.0,180.0,0.0,Urban,N,cust_67
+cust_14,emp_43,10.87,3534,2021-10-11,ln_68,Married,27,v_99,LP001233,Male,Yes,1,Graduate,No,10750,0.0,312.0,360.0,1.0,Urban,Y,cust_68
+cust_64,emp_20,6.2,4901,2020-03-13,ln_69,Married,24,v_395,LP001238,Male,Yes,3+,Not Graduate,Yes,7100,0.0,125.0,60.0,1.0,Urban,Y,cust_69
+cust_26,emp_16,14.03,4605,2020-07-19,ln_70,Married,21,v_359,LP001241,Female,No,0,Graduate,No,4300,0.0,136.0,360.0,0.0,Semiurban,N,cust_70
+cust_28,emp_10,15.33,4460,2022-02-26,ln_71,Widow,31,v_275,LP001243,Male,Yes,0,Graduate,No,3208,3066.0,172.0,360.0,1.0,Urban,Y,cust_71
+cust_65,emp_13,6.64,5150,2021-01-08,ln_72,Married,10,v_372,LP001245,Male,Yes,2,Not Graduate,Yes,1875,1875.0,97.0,360.0,1.0,Semiurban,Y,cust_72
+cust_59,emp_22,7.01,4127,2022-01-17,ln_73,Widow,31,v_373,LP001248,Male,No,0,Graduate,No,3500,0.0,81.0,300.0,1.0,Semiurban,Y,cust_73
+cust_15,emp_27,11.56,4690,2021-11-17,ln_74,Married,25,v_457,LP001250,Male,Yes,3+,Not Graduate,No,4755,0.0,95.0,,0.0,Semiurban,N,cust_74
+cust_46,emp_49,12.82,5470,2021-08-30,ln_75,Married,11,v_239,LP001253,Male,Yes,3+,Graduate,Yes,5266,1774.0,187.0,360.0,1.0,Semiurban,Y,cust_75
+cust_21,emp_3,9.3,4266,2021-01-11,ln_76,Single,26,v_55,LP001255,Male,No,0,Graduate,No,3750,0.0,113.0,480.0,1.0,Urban,N,cust_76
+cust_19,emp_5,8.85,3906,2020-12-26,ln_77,Widow,14,v_22,LP001256,Male,No,0,Graduate,No,3750,4750.0,176.0,360.0,1.0,Urban,N,cust_77
+cust_96,emp_37,16.05,4979,2021-10-16,ln_78,Married,26,v_418,LP001259,Male,Yes,1,Graduate,Yes,1000,3022.0,110.0,360.0,1.0,Urban,N,cust_78
+cust_51,emp_22,14.04,3307,2020-05-27,ln_79,Single,23,v_401,LP001263,Male,Yes,3+,Graduate,No,3167,4000.0,180.0,300.0,0.0,Semiurban,N,cust_79
+cust_18,emp_26,10.46,6138,2020-04-21,ln_80,Widow,0,v_27,LP001264,Male,Yes,3+,Not Graduate,Yes,3333,2166.0,130.0,360.0,,Semiurban,Y,cust_80
+cust_34,emp_42,5.9,5779,2021-04-18,ln_81,Widow,0,v_378,LP001265,Female,No,0,Graduate,No,3846,0.0,111.0,360.0,1.0,Semiurban,Y,cust_81
+cust_91,emp_14,15.81,5096,2021-05-26,ln_82,Widow,19,v_272,LP001266,Male,Yes,1,Graduate,Yes,2395,0.0,,360.0,1.0,Semiurban,Y,cust_82
+cust_68,emp_45,11.46,5076,2022-03-17,ln_83,Married,23,v_413,LP001267,Female,Yes,2,Graduate,No,1378,1881.0,167.0,360.0,1.0,Urban,N,cust_83
+cust_97,emp_25,12.3,4438,2022-03-27,ln_84,Married,15,v_252,LP001273,Male,Yes,0,Graduate,No,6000,2250.0,265.0,360.0,,Semiurban,N,cust_84
+cust_54,emp_48,11.99,4936,2021-10-25,ln_85,Married,25,v_413,LP001275,Male,Yes,1,Graduate,No,3988,0.0,50.0,240.0,1.0,Urban,Y,cust_85
+cust_75,emp_36,3.94,2911,2020-04-24,ln_86,Widow,16,v_134,LP001279,Male,No,0,Graduate,No,2366,2531.0,136.0,360.0,1.0,Semiurban,Y,cust_86
+cust_79,emp_35,8.97,4781,2021-02-05,ln_87,Married,18,v_189,LP001280,Male,Yes,2,Not Graduate,No,3333,2000.0,99.0,360.0,,Semiurban,Y,cust_87
+cust_29,emp_40,5.33,5128,2020-09-27,ln_88,Married,22,v_341,LP001282,Male,Yes,0,Graduate,No,2500,2118.0,104.0,360.0,1.0,Semiurban,Y,cust_88
+cust_43,emp_35,9.28,4287,2021-03-01,ln_89,Single,30,v_495,LP001289,Male,No,0,Graduate,No,8566,0.0,210.0,360.0,1.0,Urban,Y,cust_89
+cust_26,emp_31,8.79,5404,2021-07-27,ln_90,Widow,30,v_445,LP001310,Male,Yes,0,Graduate,No,5695,4167.0,175.0,360.0,1.0,Semiurban,Y,cust_90
+cust_39,emp_7,9.07,5492,2021-04-06,ln_91,Married,18,v_362,LP001316,Male,Yes,0,Graduate,No,2958,2900.0,131.0,360.0,1.0,Semiurban,Y,cust_91
+cust_83,emp_8,8.21,5000,2022-03-18,ln_92,Married,18,v_303,LP001318,Male,Yes,2,Graduate,No,6250,5654.0,188.0,180.0,1.0,Semiurban,Y,cust_92
+cust_65,emp_36,16.25,4520,2021-02-12,ln_93,Widow,31,v_366,LP001319,Male,Yes,2,Not Graduate,No,3273,1820.0,81.0,360.0,1.0,Urban,Y,cust_93
+cust_87,emp_49,10.23,4187,2020-11-22,ln_94,Widow,12,v_133,LP001322,Male,No,0,Graduate,No,4133,0.0,122.0,360.0,1.0,Semiurban,Y,cust_94
+cust_28,emp_36,6.0,3860,2021-12-23,ln_95,Widow,13,v_465,LP001325,Male,No,0,Not Graduate,No,3620,0.0,25.0,120.0,1.0,Semiurban,Y,cust_95
+cust_55,emp_34,8.46,4334,2020-08-04,ln_96,Single,26,v_128,LP001326,Male,No,0,Graduate,,6782,0.0,,360.0,,Urban,N,cust_96
+cust_70,emp_4,8.82,4311,2020-08-06,ln_97,Widow,24,v_425,LP001327,Female,Yes,0,Graduate,No,2484,2302.0,137.0,360.0,1.0,Semiurban,Y,cust_97
+cust_52,emp_8,12.76,5392,2020-08-25,ln_98,Married,12,v_335,LP001333,Male,Yes,0,Graduate,No,1977,997.0,50.0,360.0,1.0,Semiurban,Y,cust_98
+cust_73,emp_15,16.4,3250,2021-01-04,ln_99,Married,0,v_397,LP001334,Male,Yes,0,Not Graduate,No,4188,0.0,115.0,180.0,1.0,Semiurban,Y,cust_99
+cust_6,emp_49,9.18,6224,2021-06-14,ln_100,Widow,9,v_92,LP001343,Male,Yes,0,Graduate,No,1759,3541.0,131.0,360.0,1.0,Semiurban,Y,cust_100
+cust_56,emp_20,10.59,5627,2020-04-07,ln_101,Widow,22,v_18,LP001345,Male,Yes,2,Not Graduate,No,4288,3263.0,133.0,180.0,1.0,Urban,Y,cust_101
+cust_44,emp_32,9.18,4533,2020-06-10,ln_102,Single,16,v_163,LP001349,Male,No,0,Graduate,No,4843,3806.0,151.0,360.0,1.0,Semiurban,Y,cust_102
+cust_18,emp_3,11.13,5697,2021-04-13,ln_103,Married,23,v_163,LP001350,Male,Yes,,Graduate,No,13650,0.0,,360.0,1.0,Urban,Y,cust_103
+cust_56,emp_20,10.13,4235,2021-03-03,ln_104,Widow,13,v_122,LP001356,Male,Yes,0,Graduate,No,4652,3583.0,,360.0,1.0,Semiurban,Y,cust_104
+cust_78,emp_50,14.76,5424,2021-09-17,ln_105,Widow,25,v_344,LP001357,Male,,,Graduate,No,3816,754.0,160.0,360.0,1.0,Urban,Y,cust_105
+cust_70,emp_17,8.86,5001,2021-10-15,ln_106,Married,22,v_226,LP001367,Male,Yes,1,Graduate,No,3052,1030.0,100.0,360.0,1.0,Urban,Y,cust_106
+cust_68,emp_32,12.9,5114,2020-09-14,ln_107,Married,34,v_208,LP001369,Male,Yes,2,Graduate,No,11417,1126.0,225.0,360.0,1.0,Urban,Y,cust_107
+cust_66,emp_47,9.54,5430,2020-12-07,ln_108,Married,35,v_300,LP001370,Male,No,0,Not Graduate,,7333,0.0,120.0,360.0,1.0,Rural,N,cust_108
+cust_56,emp_9,9.9,6579,2021-01-01,ln_109,Single,30,v_171,LP001379,Male,Yes,2,Graduate,No,3800,3600.0,216.0,360.0,0.0,Urban,N,cust_109
+cust_36,emp_4,13.69,4771,2020-10-31,ln_110,Single,31,v_120,LP001384,Male,Yes,3+,Not Graduate,No,2071,754.0,94.0,480.0,1.0,Semiurban,Y,cust_110
+cust_84,emp_45,10.44,5746,2020-04-30,ln_111,Married,17,v_44,LP001385,Male,No,0,Graduate,No,5316,0.0,136.0,360.0,1.0,Urban,Y,cust_111
+cust_89,emp_10,12.74,5066,2022-03-02,ln_112,Widow,16,v_273,LP001387,Female,Yes,0,Graduate,,2929,2333.0,139.0,360.0,1.0,Semiurban,Y,cust_112
+cust_14,emp_2,12.11,4591,2021-07-08,ln_113,Married,29,v_357,LP001391,Male,Yes,0,Not Graduate,No,3572,4114.0,152.0,,0.0,Rural,N,cust_113
+cust_58,emp_5,12.59,4227,2020-05-11,ln_114,Single,20,v_192,LP001392,Female,No,1,Graduate,Yes,7451,0.0,,360.0,1.0,Semiurban,Y,cust_114
+cust_31,emp_24,7.49,5151,2020-12-21,ln_115,Widow,23,v_144,LP001398,Male,No,0,Graduate,,5050,0.0,118.0,360.0,1.0,Semiurban,Y,cust_115
+cust_51,emp_50,10.81,5475,2020-06-30,ln_116,Married,32,v_149,LP001401,Male,Yes,1,Graduate,No,14583,0.0,185.0,180.0,1.0,Rural,Y,cust_116
+cust_35,emp_43,7.3,4891,2020-11-22,ln_117,Widow,27,v_172,LP001404,Female,Yes,0,Graduate,No,3167,2283.0,154.0,360.0,1.0,Semiurban,Y,cust_117
+cust_82,emp_44,9.03,4620,2021-04-10,ln_118,Married,27,v_211,LP001405,Male,Yes,1,Graduate,No,2214,1398.0,85.0,360.0,,Urban,Y,cust_118
+cust_42,emp_49,12.92,4809,2021-05-28,ln_119,Single,0,v_400,LP001421,Male,Yes,0,Graduate,No,5568,2142.0,175.0,360.0,1.0,Rural,N,cust_119
+cust_29,emp_40,7.94,5076,2021-08-03,ln_120,Widow,38,v_405,LP001422,Female,No,0,Graduate,No,10408,0.0,259.0,360.0,1.0,Urban,Y,cust_120
+cust_15,emp_28,9.76,3608,2021-03-22,ln_121,Single,24,v_346,LP001426,Male,Yes,,Graduate,No,5667,2667.0,180.0,360.0,1.0,Rural,Y,cust_121
+cust_33,emp_37,10.25,4984,2021-06-21,ln_122,Single,21,v_6,LP001430,Female,No,0,Graduate,No,4166,0.0,44.0,360.0,1.0,Semiurban,Y,cust_122
+cust_39,emp_8,8.66,6273,2020-04-03,ln_123,Single,10,v_180,LP001431,Female,No,0,Graduate,No,2137,8980.0,137.0,360.0,0.0,Semiurban,Y,cust_123
+cust_79,emp_30,11.7,5924,2020-11-14,ln_124,Single,37,v_90,LP001432,Male,Yes,2,Graduate,No,2957,0.0,81.0,360.0,1.0,Semiurban,Y,cust_124
+cust_82,emp_37,9.51,3099,2021-04-07,ln_125,Married,25,v_282,LP001439,Male,Yes,0,Not Graduate,No,4300,2014.0,194.0,360.0,1.0,Rural,Y,cust_125
+cust_8,emp_40,8.33,5671,2021-10-28,ln_126,Widow,17,v_486,LP001443,Female,No,0,Graduate,No,3692,0.0,93.0,360.0,,Rural,Y,cust_126
+cust_78,emp_36,10.56,4288,2020-12-17,ln_127,Single,21,v_404,LP001448,,Yes,3+,Graduate,No,23803,0.0,370.0,360.0,1.0,Rural,Y,cust_127
+cust_46,emp_3,7.12,4329,2020-05-05,ln_128,Single,-2,v_491,LP001449,Male,No,0,Graduate,No,3865,1640.0,,360.0,1.0,Rural,Y,cust_128
+cust_53,emp_49,6.37,4709,2020-03-05,ln_129,Single,23,v_424,LP001451,Male,Yes,1,Graduate,Yes,10513,3850.0,160.0,180.0,0.0,Urban,N,cust_129
+cust_38,emp_41,12.91,3637,2021-07-23,ln_130,Widow,21,v_106,LP001465,Male,Yes,0,Graduate,No,6080,2569.0,182.0,360.0,,Rural,N,cust_130
+cust_64,emp_17,12.81,5595,2020-03-08,ln_131,Married,18,v_264,LP001469,Male,No,0,Graduate,Yes,20166,0.0,650.0,480.0,,Urban,Y,cust_131
+cust_5,emp_50,8.86,4434,2020-10-17,ln_132,Single,36,v_259,LP001473,Male,No,0,Graduate,No,2014,1929.0,74.0,360.0,1.0,Urban,Y,cust_132
+cust_57,emp_49,12.83,3351,2021-11-05,ln_133,Widow,16,v_394,LP001478,Male,No,0,Graduate,No,2718,0.0,70.0,360.0,1.0,Semiurban,Y,cust_133
+cust_36,emp_16,7.35,5472,2021-01-18,ln_134,Married,26,v_319,LP001482,Male,Yes,0,Graduate,Yes,3459,0.0,25.0,120.0,1.0,Semiurban,Y,cust_134
+cust_28,emp_26,11.84,5250,2021-05-08,ln_135,Single,7,v_291,LP001487,Male,No,0,Graduate,No,4895,0.0,102.0,360.0,1.0,Semiurban,Y,cust_135
+cust_27,emp_8,8.88,5107,2021-02-27,ln_136,Widow,20,v_226,LP001488,Male,Yes,3+,Graduate,No,4000,7750.0,290.0,360.0,1.0,Semiurban,N,cust_136
+cust_73,emp_46,9.13,4843,2021-08-30,ln_137,Married,18,v_175,LP001489,Female,Yes,0,Graduate,No,4583,0.0,84.0,360.0,1.0,Rural,N,cust_137
+cust_36,emp_29,10.25,7692,2021-01-19,ln_138,Widow,15,v_50,LP001491,Male,Yes,2,Graduate,Yes,3316,3500.0,88.0,360.0,1.0,Urban,Y,cust_138
+cust_76,emp_15,8.69,5428,2021-09-18,ln_139,Widow,9,v_411,LP001492,Male,No,0,Graduate,No,14999,0.0,242.0,360.0,0.0,Semiurban,N,cust_139
+cust_99,emp_24,5.58,6072,2021-06-08,ln_140,Married,42,v_96,LP001493,Male,Yes,2,Not Graduate,No,4200,1430.0,129.0,360.0,1.0,Rural,N,cust_140
+cust_71,emp_28,9.94,3709,2022-01-04,ln_141,Widow,13,v_341,LP001497,Male,Yes,2,Graduate,No,5042,2083.0,185.0,360.0,1.0,Rural,N,cust_141
+cust_5,emp_8,14.25,6446,2021-10-30,ln_142,Single,22,v_193,LP001498,Male,No,0,Graduate,No,5417,0.0,168.0,360.0,1.0,Urban,Y,cust_142
+cust_49,emp_49,11.24,5561,2022-01-24,ln_143,Married,9,v_225,LP001504,Male,No,0,Graduate,Yes,6950,0.0,175.0,180.0,1.0,Semiurban,Y,cust_143
+cust_5,emp_42,8.16,5847,2020-12-02,ln_144,Widow,14,v_279,LP001507,Male,Yes,0,Graduate,No,2698,2034.0,122.0,360.0,1.0,Semiurban,Y,cust_144
+cust_62,emp_35,7.31,5688,2020-12-17,ln_145,Widow,18,v_434,LP001508,Male,Yes,2,Graduate,No,11757,0.0,187.0,180.0,1.0,Urban,Y,cust_145
+cust_36,emp_13,14.64,4073,2020-04-11,ln_146,Single,18,v_80,LP001514,Female,Yes,0,Graduate,No,2330,4486.0,100.0,360.0,1.0,Semiurban,Y,cust_146
+cust_34,emp_9,11.85,5082,2021-03-12,ln_147,Widow,19,v_333,LP001516,Female,Yes,2,Graduate,No,14866,0.0,70.0,360.0,1.0,Urban,Y,cust_147
+cust_4,emp_39,10.79,3672,2022-01-16,ln_148,Widow,15,v_270,LP001518,Male,Yes,1,Graduate,No,1538,1425.0,30.0,360.0,1.0,Urban,Y,cust_148
+cust_36,emp_26,6.87,5923,2021-03-21,ln_149,Widow,4,v_365,LP001519,Female,No,0,Graduate,No,10000,1666.0,225.0,360.0,1.0,Rural,N,cust_149
+cust_57,emp_42,9.58,4128,2020-03-31,ln_150,Married,25,v_332,LP001520,Male,Yes,0,Graduate,No,4860,830.0,125.0,360.0,1.0,Semiurban,Y,cust_150
+cust_36,emp_2,9.99,6285,2020-09-26,ln_151,Widow,29,v_81,LP001528,Male,No,0,Graduate,No,6277,0.0,118.0,360.0,0.0,Rural,N,cust_151
+cust_84,emp_37,7.5,4171,2021-01-03,ln_152,Single,20,v_499,LP001529,Male,Yes,0,Graduate,Yes,2577,3750.0,152.0,360.0,1.0,Rural,Y,cust_152
+cust_42,emp_15,11.43,4485,2020-09-20,ln_153,Married,-3,v_256,LP001531,Male,No,0,Graduate,No,9166,0.0,244.0,360.0,1.0,Urban,N,cust_153
+cust_13,emp_28,11.69,3520,2022-02-03,ln_154,Married,39,v_77,LP001532,Male,Yes,2,Not Graduate,No,2281,0.0,113.0,360.0,1.0,Rural,N,cust_154
+cust_12,emp_3,17.67,4457,2021-06-29,ln_155,Widow,11,v_36,LP001535,Male,No,0,Graduate,No,3254,0.0,50.0,360.0,1.0,Urban,Y,cust_155
+cust_16,emp_47,8.86,5385,2020-08-16,ln_156,Widow,27,v_471,LP001536,Male,Yes,3+,Graduate,No,39999,0.0,600.0,180.0,0.0,Semiurban,Y,cust_156
+cust_15,emp_41,10.93,4222,2020-06-09,ln_157,Widow,29,v_334,LP001541,Male,Yes,1,Graduate,No,6000,0.0,160.0,360.0,,Rural,Y,cust_157
+cust_92,emp_28,11.04,6057,2020-06-05,ln_158,Widow,19,v_373,LP001543,Male,Yes,1,Graduate,No,9538,0.0,187.0,360.0,1.0,Urban,Y,cust_158
+cust_47,emp_27,3.31,3585,2022-01-08,ln_159,Married,27,v_493,LP001546,Male,No,0,Graduate,,2980,2083.0,120.0,360.0,1.0,Rural,Y,cust_159
+cust_82,emp_15,9.28,3754,2020-03-02,ln_160,Widow,12,v_52,LP001552,Male,Yes,0,Graduate,No,4583,5625.0,255.0,360.0,1.0,Semiurban,Y,cust_160
+cust_12,emp_2,12.31,6470,2020-12-16,ln_161,Widow,9,v_108,LP001560,Male,Yes,0,Not Graduate,No,1863,1041.0,98.0,360.0,1.0,Semiurban,Y,cust_161
+cust_81,emp_46,10.16,4276,2021-11-17,ln_162,Widow,34,v_159,LP001562,Male,Yes,0,Graduate,No,7933,0.0,275.0,360.0,1.0,Urban,N,cust_162
+cust_9,emp_5,16.8,6731,2020-09-03,ln_163,Married,12,v_265,LP001565,Male,Yes,1,Graduate,No,3089,1280.0,121.0,360.0,0.0,Semiurban,N,cust_163
+cust_31,emp_43,5.35,4084,2021-08-22,ln_164,Single,19,v_398,LP001570,Male,Yes,2,Graduate,No,4167,1447.0,158.0,360.0,1.0,Rural,Y,cust_164
+cust_80,emp_44,8.15,3779,2020-05-26,ln_165,Single,22,v_311,LP001572,Male,Yes,0,Graduate,No,9323,0.0,75.0,180.0,1.0,Urban,Y,cust_165
+cust_49,emp_20,10.27,5630,2022-03-21,ln_166,Married,23,v_86,LP001574,Male,Yes,0,Graduate,No,3707,3166.0,182.0,,1.0,Rural,Y,cust_166
+cust_34,emp_14,9.04,5336,2021-05-06,ln_167,Single,31,v_420,LP001577,Female,Yes,0,Graduate,No,4583,0.0,112.0,360.0,1.0,Rural,N,cust_167
+cust_7,emp_11,8.69,4519,2021-01-02,ln_168,Widow,12,v_116,LP001578,Male,Yes,0,Graduate,No,2439,3333.0,129.0,360.0,1.0,Rural,Y,cust_168
+cust_46,emp_21,14.33,6516,2022-02-11,ln_169,Married,4,v_80,LP001579,Male,No,0,Graduate,No,2237,0.0,63.0,480.0,0.0,Semiurban,N,cust_169
+cust_46,emp_16,10.02,5610,2021-08-01,ln_170,Single,45,v_401,LP001580,Male,Yes,2,Graduate,No,8000,0.0,200.0,360.0,1.0,Semiurban,Y,cust_170
+cust_90,emp_4,17.86,3781,2021-03-30,ln_171,Widow,26,v_156,LP001581,Male,Yes,0,Not Graduate,,1820,1769.0,95.0,360.0,1.0,Rural,Y,cust_171
+cust_85,emp_7,12.7,3868,2020-04-11,ln_172,Widow,-7,v_377,LP001585,,Yes,3+,Graduate,No,51763,0.0,700.0,300.0,1.0,Urban,Y,cust_172
+cust_77,emp_40,11.01,5225,2021-08-28,ln_173,Single,24,v_132,LP001586,Male,Yes,3+,Not Graduate,No,3522,0.0,81.0,180.0,1.0,Rural,N,cust_173
+cust_80,emp_37,9.38,3759,2021-07-28,ln_174,Widow,9,v_154,LP001594,Male,Yes,0,Graduate,No,5708,5625.0,187.0,360.0,1.0,Semiurban,Y,cust_174
+cust_38,emp_12,5.23,5511,2020-09-11,ln_175,Widow,32,v_140,LP001603,Male,Yes,0,Not Graduate,Yes,4344,736.0,87.0,360.0,1.0,Semiurban,N,cust_175
+cust_33,emp_38,8.81,4377,2021-10-04,ln_176,Widow,6,v_109,LP001606,Male,Yes,0,Graduate,No,3497,1964.0,116.0,360.0,1.0,Rural,Y,cust_176
+cust_99,emp_4,9.92,5142,2020-04-09,ln_177,Married,17,v_271,LP001608,Male,Yes,2,Graduate,No,2045,1619.0,101.0,360.0,1.0,Rural,Y,cust_177
+cust_85,emp_9,10.8,5796,2022-01-27,ln_178,Married,15,v_74,LP001610,Male,Yes,3+,Graduate,No,5516,11300.0,495.0,360.0,0.0,Semiurban,N,cust_178
+cust_16,emp_3,10.18,5514,2022-02-26,ln_179,Married,33,v_106,LP001616,Male,Yes,1,Graduate,No,3750,0.0,116.0,360.0,1.0,Semiurban,Y,cust_179
+cust_37,emp_47,14.27,4831,2020-03-15,ln_180,Widow,37,v_450,LP001630,Male,No,0,Not Graduate,No,2333,1451.0,102.0,480.0,0.0,Urban,N,cust_180
+cust_68,emp_16,3.05,5735,2021-12-11,ln_181,Married,12,v_256,LP001633,Male,Yes,1,Graduate,No,6400,7250.0,180.0,360.0,0.0,Urban,N,cust_181
+cust_24,emp_25,8.38,6443,2020-09-14,ln_182,Widow,28,v_165,LP001634,Male,No,0,Graduate,No,1916,5063.0,67.0,360.0,,Rural,N,cust_182
+cust_72,emp_27,12.72,3173,2021-05-28,ln_183,Single,10,v_399,LP001636,Male,Yes,0,Graduate,No,4600,0.0,73.0,180.0,1.0,Semiurban,Y,cust_183
+cust_26,emp_2,5.62,3885,2022-01-03,ln_184,Widow,34,v_322,LP001637,Male,Yes,1,Graduate,No,33846,0.0,260.0,360.0,1.0,Semiurban,N,cust_184
+cust_81,emp_29,9.01,6061,2021-06-29,ln_185,Widow,14,v_237,LP001639,Female,Yes,0,Graduate,No,3625,0.0,108.0,360.0,1.0,Semiurban,Y,cust_185
+cust_47,emp_49,9.61,5410,2021-09-09,ln_186,Married,20,v_334,LP001640,Male,Yes,0,Graduate,Yes,39147,4750.0,120.0,360.0,1.0,Semiurban,Y,cust_186
+cust_6,emp_24,8.04,6027,2022-01-18,ln_187,Married,23,v_11,LP001641,Male,Yes,1,Graduate,Yes,2178,0.0,66.0,300.0,0.0,Rural,N,cust_187
+cust_66,emp_6,8.6,4785,2020-05-22,ln_188,Married,29,v_82,LP001643,Male,Yes,0,Graduate,No,2383,2138.0,58.0,360.0,,Rural,Y,cust_188
+cust_46,emp_46,9.18,5146,2020-10-12,ln_189,Widow,15,v_376,LP001644,,Yes,0,Graduate,Yes,674,5296.0,168.0,360.0,1.0,Rural,Y,cust_189
+cust_19,emp_49,10.45,7160,2021-08-22,ln_190,Married,17,v_286,LP001647,Male,Yes,0,Graduate,No,9328,0.0,188.0,180.0,1.0,Rural,Y,cust_190
+cust_17,emp_25,8.01,5878,2020-03-10,ln_191,Widow,30,v_152,LP001653,Male,No,0,Not Graduate,No,4885,0.0,48.0,360.0,1.0,Rural,Y,cust_191
+cust_71,emp_50,15.65,2474,2021-04-21,ln_192,Single,26,v_463,LP001656,Male,No,0,Graduate,No,12000,0.0,164.0,360.0,1.0,Semiurban,N,cust_192
+cust_29,emp_15,6.45,5118,2020-04-24,ln_193,Married,30,v_91,LP001657,Male,Yes,0,Not Graduate,No,6033,0.0,160.0,360.0,1.0,Urban,N,cust_193
+cust_34,emp_15,11.32,4389,2020-07-26,ln_194,Widow,24,v_227,LP001658,Male,No,0,Graduate,No,3858,0.0,76.0,360.0,1.0,Semiurban,Y,cust_194
+cust_32,emp_29,7.27,5139,2021-02-05,ln_195,Married,25,v_338,LP001664,Male,No,0,Graduate,No,4191,0.0,120.0,360.0,1.0,Rural,Y,cust_195
+cust_99,emp_26,10.21,6882,2020-07-07,ln_196,Single,9,v_387,LP001665,Male,Yes,1,Graduate,No,3125,2583.0,170.0,360.0,1.0,Semiurban,N,cust_196
+cust_15,emp_44,13.47,4537,2021-12-05,ln_197,Married,25,v_323,LP001666,Male,No,0,Graduate,No,8333,3750.0,187.0,360.0,1.0,Rural,Y,cust_197
+cust_15,emp_41,8.63,3095,2021-07-09,ln_198,Widow,30,v_349,LP001669,Female,No,0,Not Graduate,No,1907,2365.0,120.0,,1.0,Urban,Y,cust_198
+cust_1,emp_9,12.84,5512,2020-06-10,ln_199,Married,31,v_81,LP001671,Female,Yes,0,Graduate,No,3416,2816.0,113.0,360.0,,Semiurban,Y,cust_199
+cust_21,emp_9,8.26,5896,2020-06-27,ln_200,Married,27,v_246,LP001673,Male,No,0,Graduate,Yes,11000,0.0,83.0,360.0,1.0,Urban,N,cust_200
+cust_33,emp_29,9.39,4238,2021-12-25,ln_201,Widow,7,v_389,LP001674,Male,Yes,1,Not Graduate,No,2600,2500.0,90.0,360.0,1.0,Semiurban,Y,cust_201
+cust_63,emp_11,7.17,4815,2020-08-03,ln_202,Widow,21,v_274,LP001677,Male,No,2,Graduate,No,4923,0.0,166.0,360.0,0.0,Semiurban,Y,cust_202
+cust_80,emp_11,15.12,3111,2021-10-27,ln_203,Widow,34,v_33,LP001682,Male,Yes,3+,Not Graduate,No,3992,0.0,,180.0,1.0,Urban,N,cust_203
+cust_24,emp_17,4.56,6601,2020-07-27,ln_204,Widow,11,v_206,LP001688,Male,Yes,1,Not Graduate,No,3500,1083.0,135.0,360.0,1.0,Urban,Y,cust_204
+cust_22,emp_35,9.62,4962,2020-03-23,ln_205,Widow,20,v_337,LP001691,Male,Yes,2,Not Graduate,No,3917,0.0,124.0,360.0,1.0,Semiurban,Y,cust_205
+cust_4,emp_45,10.35,4649,2022-01-15,ln_206,Widow,22,v_423,LP001692,Female,No,0,Not Graduate,No,4408,0.0,120.0,360.0,1.0,Semiurban,Y,cust_206
+cust_95,emp_23,16.22,4845,2020-06-28,ln_207,Widow,10,v_396,LP001693,Female,No,0,Graduate,No,3244,0.0,80.0,360.0,1.0,Urban,Y,cust_207
+cust_48,emp_3,6.28,5229,2020-10-07,ln_208,Single,9,v_19,LP001698,Male,No,0,Not Graduate,No,3975,2531.0,55.0,360.0,1.0,Rural,Y,cust_208
+cust_28,emp_15,3.66,3920,2021-10-02,ln_209,Married,6,v_418,LP001699,Male,No,0,Graduate,No,2479,0.0,59.0,360.0,1.0,Urban,Y,cust_209
+cust_85,emp_49,6.6,3870,2020-03-01,ln_210,Married,5,v_244,LP001702,Male,No,0,Graduate,No,3418,0.0,127.0,360.0,1.0,Semiurban,N,cust_210
+cust_9,emp_48,17.53,4167,2021-09-07,ln_211,Married,-6,v_431,LP001708,Female,No,0,Graduate,No,10000,0.0,214.0,360.0,1.0,Semiurban,N,cust_211
+cust_62,emp_39,9.92,4729,2020-05-03,ln_212,Widow,46,v_121,LP001711,Male,Yes,3+,Graduate,No,3430,1250.0,128.0,360.0,0.0,Semiurban,N,cust_212
+cust_8,emp_13,11.6,3643,2021-01-08,ln_213,Married,33,v_362,LP001713,Male,Yes,1,Graduate,Yes,7787,0.0,240.0,360.0,1.0,Urban,Y,cust_213
+cust_34,emp_39,7.18,4116,2021-08-11,ln_214,Widow,9,v_444,LP001715,Male,Yes,3+,Not Graduate,Yes,5703,0.0,130.0,360.0,1.0,Rural,Y,cust_214
+cust_68,emp_50,8.15,5847,2021-07-25,ln_215,Married,28,v_81,LP001716,Male,Yes,0,Graduate,No,3173,3021.0,137.0,360.0,1.0,Urban,Y,cust_215
+cust_44,emp_46,6.84,6770,2021-09-24,ln_216,Single,16,v_282,LP001720,Male,Yes,3+,Not Graduate,No,3850,983.0,100.0,360.0,1.0,Semiurban,Y,cust_216
+cust_45,emp_17,11.1,3535,2021-03-21,ln_217,Widow,31,v_263,LP001722,Male,Yes,0,Graduate,No,150,1800.0,135.0,360.0,1.0,Rural,N,cust_217
+cust_76,emp_19,6.79,5024,2022-03-02,ln_218,Single,14,v_388,LP001726,Male,Yes,0,Graduate,No,3727,1775.0,131.0,360.0,1.0,Semiurban,Y,cust_218
+cust_88,emp_11,11.52,5983,2020-05-03,ln_219,Widow,15,v_202,LP001732,Male,Yes,2,Graduate,,5000,0.0,72.0,360.0,0.0,Semiurban,N,cust_219
+cust_15,emp_3,7.32,3949,2021-11-24,ln_220,Widow,20,v_319,LP001734,Female,Yes,2,Graduate,No,4283,2383.0,127.0,360.0,,Semiurban,Y,cust_220
+cust_98,emp_16,11.23,5237,2022-01-03,ln_221,Widow,11,v_188,LP001736,Male,Yes,0,Graduate,No,2221,0.0,60.0,360.0,0.0,Urban,N,cust_221
+cust_18,emp_47,8.85,5262,2020-08-27,ln_222,Married,34,v_195,LP001743,Male,Yes,2,Graduate,No,4009,1717.0,116.0,360.0,1.0,Semiurban,Y,cust_222
+cust_70,emp_27,8.0,5495,2021-12-04,ln_223,Single,19,v_289,LP001744,Male,No,0,Graduate,No,2971,2791.0,144.0,360.0,1.0,Semiurban,Y,cust_223
+cust_52,emp_2,11.49,4712,2020-06-21,ln_224,Single,20,v_166,LP001749,Male,Yes,0,Graduate,No,7578,1010.0,175.0,,1.0,Semiurban,Y,cust_224
+cust_33,emp_23,15.78,6096,2020-06-11,ln_225,Single,12,v_385,LP001750,Male,Yes,0,Graduate,No,6250,0.0,128.0,360.0,1.0,Semiurban,Y,cust_225
+cust_12,emp_50,13.45,6041,2021-07-31,ln_226,Single,18,v_480,LP001751,Male,Yes,0,Graduate,No,3250,0.0,170.0,360.0,1.0,Rural,N,cust_226
+cust_87,emp_42,7.05,5143,2020-11-20,ln_227,Widow,28,v_147,LP001754,Male,Yes,,Not Graduate,Yes,4735,0.0,138.0,360.0,1.0,Urban,N,cust_227
+cust_16,emp_40,9.19,5763,2021-03-20,ln_228,Single,36,v_8,LP001758,Male,Yes,2,Graduate,No,6250,1695.0,210.0,360.0,1.0,Semiurban,Y,cust_228
+cust_15,emp_5,6.36,3585,2022-01-11,ln_229,Widow,18,v_424,LP001760,Male,,,Graduate,No,4758,0.0,158.0,480.0,1.0,Semiurban,Y,cust_229
+cust_24,emp_6,10.22,5467,2020-09-17,ln_230,Single,30,v_183,LP001761,Male,No,0,Graduate,Yes,6400,0.0,200.0,360.0,1.0,Rural,Y,cust_230
+cust_45,emp_28,12.63,6718,2022-02-24,ln_231,Married,26,v_372,LP001765,Male,Yes,1,Graduate,No,2491,2054.0,104.0,360.0,1.0,Semiurban,Y,cust_231
+cust_31,emp_15,8.66,5261,2021-03-15,ln_232,Married,51,v_282,LP001768,Male,Yes,0,Graduate,,3716,0.0,42.0,180.0,1.0,Rural,Y,cust_232
+cust_74,emp_46,7.86,4361,2020-11-10,ln_233,Widow,16,v_80,LP001770,Male,No,0,Not Graduate,No,3189,2598.0,120.0,,1.0,Rural,Y,cust_233
+cust_12,emp_15,12.91,4759,2022-01-01,ln_234,Widow,21,v_130,LP001776,Female,No,0,Graduate,No,8333,0.0,280.0,360.0,1.0,Semiurban,Y,cust_234
+cust_37,emp_48,6.85,4544,2021-04-26,ln_235,Married,24,v_193,LP001778,Male,Yes,1,Graduate,No,3155,1779.0,140.0,360.0,1.0,Semiurban,Y,cust_235
+cust_14,emp_6,11.37,2242,2020-08-02,ln_236,Married,21,v_266,LP001784,Male,Yes,1,Graduate,No,5500,1260.0,170.0,360.0,1.0,Rural,Y,cust_236
+cust_69,emp_28,10.33,5162,2021-08-04,ln_237,Single,3,v_371,LP001786,Male,Yes,0,Graduate,,5746,0.0,255.0,360.0,,Urban,N,cust_237
+cust_95,emp_41,6.57,4096,2020-10-31,ln_238,Widow,17,v_112,LP001788,Female,No,0,Graduate,Yes,3463,0.0,122.0,360.0,,Urban,Y,cust_238
+cust_100,emp_35,15.48,5914,2020-06-20,ln_239,Married,7,v_138,LP001790,Female,No,1,Graduate,No,3812,0.0,112.0,360.0,1.0,Rural,Y,cust_239
+cust_29,emp_23,10.03,5488,2020-04-05,ln_240,Single,16,v_138,LP001792,Male,Yes,1,Graduate,No,3315,0.0,96.0,360.0,1.0,Semiurban,Y,cust_240
+cust_9,emp_2,9.98,4380,2020-07-11,ln_241,Single,16,v_399,LP001798,Male,Yes,2,Graduate,No,5819,5000.0,120.0,360.0,1.0,Rural,Y,cust_241
+cust_57,emp_32,8.22,5356,2021-03-03,ln_242,Married,16,v_311,LP001800,Male,Yes,1,Not Graduate,No,2510,1983.0,140.0,180.0,1.0,Urban,N,cust_242
+cust_72,emp_8,9.09,6708,2021-12-14,ln_243,Widow,31,v_185,LP001806,Male,No,0,Graduate,No,2965,5701.0,155.0,60.0,1.0,Urban,Y,cust_243
+cust_18,emp_29,13.82,5450,2020-03-24,ln_244,Single,2,v_310,LP001807,Male,Yes,2,Graduate,Yes,6250,1300.0,108.0,360.0,1.0,Rural,Y,cust_244
+cust_17,emp_20,11.1,6356,2021-03-30,ln_245,Married,20,v_209,LP001811,Male,Yes,0,Not Graduate,No,3406,4417.0,123.0,360.0,1.0,Semiurban,Y,cust_245
+cust_28,emp_39,13.28,4329,2021-01-02,ln_246,Widow,13,v_259,LP001813,Male,No,0,Graduate,Yes,6050,4333.0,120.0,180.0,1.0,Urban,N,cust_246
+cust_7,emp_30,13.72,3811,2020-06-22,ln_247,Single,14,v_434,LP001814,Male,Yes,2,Graduate,No,9703,0.0,112.0,360.0,1.0,Urban,Y,cust_247
+cust_15,emp_47,6.36,5777,2020-10-31,ln_248,Single,26,v_303,LP001819,Male,Yes,1,Not Graduate,No,6608,0.0,137.0,180.0,1.0,Urban,Y,cust_248
+cust_12,emp_9,12.16,3194,2022-02-11,ln_249,Married,10,v_253,LP001824,Male,Yes,1,Graduate,No,2882,1843.0,123.0,480.0,1.0,Semiurban,Y,cust_249
+cust_8,emp_39,10.37,5184,2020-04-02,ln_250,Widow,19,v_63,LP001825,Male,Yes,0,Graduate,No,1809,1868.0,90.0,360.0,1.0,Urban,Y,cust_250
